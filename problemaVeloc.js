@@ -5,3 +5,4 @@ var aceleracion= 20;
 var tiempo= velocidadTotal/aceleracion;
 
 console.log("El tiempo que se demora en alcanzar 60 km/h es:"+ tiempo + " horas");
+
